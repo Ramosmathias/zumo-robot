@@ -1,0 +1,10 @@
+/build/
+gyro_use.h
+gyro_use.cpp
+*.7z
+*.zip
+*.xlsx
+*.elf
+*.hex
+*.bin
+__pycache__/
